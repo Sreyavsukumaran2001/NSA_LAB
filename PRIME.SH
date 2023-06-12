@@ -31,6 +31,8 @@ n1=`expr $n1 + 1`
 echo "\n"
 exit 0
 
+output
+------------
 ksb@ksb-Lenovo-Product:~/Desktop/sreya/programs$ sh PRIME.SH 
 syntax is <PRIME.SH> <n01> <no2> 
 ksb@ksb-Lenovo-Product:~/Desktop/sreya/programs$ sh PRIME.SH 20 30
