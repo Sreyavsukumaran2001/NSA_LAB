@@ -28,7 +28,14 @@ then
 echo -n "$n1,"
 fi
 n1=`expr $n1 + 1`
-done
 echo "\n"
 exit 0
+
+ksb@ksb-Lenovo-Product:~/Desktop/sreya/programs$ sh PRIME.SH 
+syntax is <PRIME.SH> <n01> <no2> 
+ksb@ksb-Lenovo-Product:~/Desktop/sreya/programs$ sh PRIME.SH 20 30
+23,29,
+
+ksb@ksb-Lenovo-Product:~/Desktop/sreya/programs$ sh PRIME.SH 20 30 45
+syntax is <PRIME.SH> <n01> <no2> 
 
