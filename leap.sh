@@ -21,3 +21,18 @@ else
    echo " $year is not a leap year"
 fi
 exit 0
+
+
+output
+-------
+
+ksb@ksb-Lenovo-Product:~/Desktop/sreya/programs$ sh leap.sh
+Enter the year:
+2100
+ 2100 is not a leap year
+
+ksb@ksb-Lenovo-Product:~/Desktop/sreya/programs$ sh leap.sh
+Enter the year:
+2004
+ 2004 is a leap year
+
