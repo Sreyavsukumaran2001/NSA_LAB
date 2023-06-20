@@ -1,0 +1,17 @@
+hello
+okay..................
+total 180
+-rw-rw-r--  1 ksb ksb 126976 Mar 30 12:50 for
+-rwxrw-r--  1 ksb ksb    269 Mar 29 15:35 greatest.sh
+-rwxrw-r--  1 ksb ksb    351 Mar 30 12:43 inword.sh
+-rwxrw-r--  1 ksb ksb    401 Mar 29 16:37 leap.sh
+-rw-rw-r--  1 ksb ksb    422 Mar 29 16:36 leapyear
+drwxrwxr-x 11 ksb ksb   4096 Mar 29 15:27 linux
+-rw-rw-r--  1 ksb ksb    138 Apr 13 11:21 mmm.sh
+-rwxrw-r--  1 ksb ksb    199 Apr 11 15:25 mtable.sh
+-rwxrw-r--  1 ksb ksb    138 Apr 11 15:07 Multiplication.sh
+-rwxrw-r--  1 ksb ksb    335 Apr 13 12:22 prime.sh
+-rw-rw-r--  1 ksb ksb     29 Apr 17 14:29 sample
+-rw-rw-r--  1 ksb ksb    982 Mar 27 15:26 scr1
+-rwxrw-r--  1 ksb ksb    367 Apr 13 12:52 triangle.sh
+-rwxrw-r--  1 ksb ksb    366 Apr 13 12:56 Triangles.sh
