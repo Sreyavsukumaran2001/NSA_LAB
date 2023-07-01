@@ -6,7 +6,7 @@ exit 1
 fi
 for f in *
 do
-fdatetime=`date -r $f "+%d -%m -%Y %H:%m %s "`
+fdatetime=`date -r $f "+ %d -%m -%Y %H:%m %s "`
 if [ -d $f ]
 then
 echo "$f\t\t<DIR><\t$fdatetime"
