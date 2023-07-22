@@ -28,7 +28,7 @@ case $opt in
   ;;
 3)for f in *
   do
-  if [ ! -d $f -a !$f ]
+  if [ ! -d $f -a ! -f $f ]
   then
   echo $f
   fi
